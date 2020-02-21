@@ -21,3 +21,11 @@ Attention, the last step was only carried out due to the need to obtain a full h
 frequency. The final data should therefore be analysed with appropriate caution.
 
 This is a working first version, which will be subject to further changes. Hints on errors and especially optimizations are welcome.
+
+## Instructions
+Please install tqdm and hickle
+
+pip install tqdm
+pip install hickl
+
+
