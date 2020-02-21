@@ -19,3 +19,5 @@ Data is downloaded, unzipped, merged per weather station, cleaned and interpolat
 
 Attention, the last step was only carried out due to the need to obtain a full hourly 
 frequency. The final data should therefore be analysed with appropriate caution.
+
+This is a working first version, which will be subject to further changes. Hints on errors and especially optimizations are welcome.
